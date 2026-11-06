@@ -1,0 +1,9 @@
+[
+  {"name":"Regular bail after arrest","facts":"First-time accused, no previous antecedents, investigation complete except final report.","query":"Regular bail for non-flight risk under BNSS"},
+  {"name":"Anticipatory bail in FIR dispute","facts":"Civil dispute converted to FIR with threats alleged; applicant cooperated before filing.","query":"Anticipatory bail and custodial necessity"},
+  {"name":"Section 304 chargesheet","facts":"Death occurred after an altercation; accused asserts private defence.","query":"Applicability of BNS Sections 304 and 308"},
+  {"name":"Economic offence custody","facts":"Alleged financial loss and records available; arrest prolonged beyond initial investigation.","query":"Bail after economic offence arrest"},
+  {"name":"Non-bailable offence after one month","facts":"Applicant in custody, trial progress slow and five prosecution witnesses remain.","query":"Regular bail after prolonged custody"},
+  {"name":"First bail application after charge-sheet","facts":"Accused cooperated, recovery completed, and the case depends primarily on documentary evidence.","query":"Regular bail under BNSS Section 480 after filing of charge-sheet"},
+  {"name":"Anticipatory bail for Section 498A case","facts":"Dispute follows matrimonial separation; interim protection and a non-coercive custody alternative are requested.","query":"Anticipatory bail safeguards in a matrimonial complaint"}
+]
